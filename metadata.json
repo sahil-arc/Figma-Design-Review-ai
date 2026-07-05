@@ -1,0 +1,6 @@
+{
+  "name": "DesignReview AI",
+  "description": "An elite AI-powered SaaS platform that analyzes complete designs, screens, and design system components for visual design, usability metrics, accessibility compliance, and cognitive psychology laws.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
